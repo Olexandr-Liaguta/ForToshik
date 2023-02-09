@@ -1,3 +1,3 @@
 const test = 5;
 
-console.log("Welcome Toshik!", test * 2);
+console.log("Welcome Sanya!", test * 2);
